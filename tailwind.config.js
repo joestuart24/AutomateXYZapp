@@ -70,7 +70,7 @@ module.exports = {
           "base-100": "#ffffff",
         },
       },
-      "dark", // Enables dark theme
+      "dark",
     ],
   },
 };
