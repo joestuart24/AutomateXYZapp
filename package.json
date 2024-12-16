@@ -3,10 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "postinstall": "npm install next",
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "next-sitemap",
+    "postinstall": "npm install next",
     "start": "next start",
     "lint": "next lint"
   },
